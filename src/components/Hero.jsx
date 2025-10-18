@@ -7,7 +7,7 @@ function Hero() {
         <section>
             <h2>I'm a</h2>
             <h1>Full Stack <br /> Software <br /> Developer</h1>
-            <button><Link to="/projects" className='link-botao'>View Projects</Link></button>
+            <button className='hero-button'><Link to="/projects" className='link-botao'>View Projects</Link></button>
         </section>
     )
 }
